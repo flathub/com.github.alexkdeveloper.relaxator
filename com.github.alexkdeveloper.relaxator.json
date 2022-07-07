@@ -31,8 +31,8 @@
               {
                 "type" : "git",
                 "url" : "https://github.com/alexkdeveloper/relaxator.git",
-                "tag" : "1.0.3",
-                "commit" : "6f0e55f3fcf3969627b014c05d1961596f4b8bdf"
+                "tag" : "1.0.4",
+                "commit" : "88b70fd12ada7feead2d1f3b054c603d51b4c3e1"
               }
           ]
         }
