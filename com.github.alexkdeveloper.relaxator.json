@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.alexkdeveloper.relaxator",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.alexkdeveloper.relaxator",
     "finish-args": [
@@ -31,8 +31,8 @@
               {
                 "type" : "git",
                 "url" : "https://github.com/alexkdeveloper/relaxator.git",
-                "tag" : "1.0.4",
-                "commit" : "13990fc948fcd8d1361e2d9ab82951747de9cc5b"
+                "tag" : "1.0.5",
+                "commit" : "beefe4ec0b2f384438353acad9bc851170a9855b"
               }
           ]
         }
